@@ -1,0 +1,17 @@
+C:\Users\3asba\source\repos\B1_prog_6_TD3\B1_prog_6_TD3\bin\Debug\net6.0-windows\B1_prog_6_TD3.exe
+C:\Users\3asba\source\repos\B1_prog_6_TD3\B1_prog_6_TD3\bin\Debug\net6.0-windows\B1_prog_6_TD3.deps.json
+C:\Users\3asba\source\repos\B1_prog_6_TD3\B1_prog_6_TD3\bin\Debug\net6.0-windows\B1_prog_6_TD3.runtimeconfig.json
+C:\Users\3asba\source\repos\B1_prog_6_TD3\B1_prog_6_TD3\bin\Debug\net6.0-windows\B1_prog_6_TD3.dll
+C:\Users\3asba\source\repos\B1_prog_6_TD3\B1_prog_6_TD3\bin\Debug\net6.0-windows\B1_prog_6_TD3.pdb
+C:\Users\3asba\source\repos\B1_prog_6_TD3\B1_prog_6_TD3\obj\Debug\net6.0-windows\B1_prog_6_TD3.csproj.AssemblyReference.cache
+C:\Users\3asba\source\repos\B1_prog_6_TD3\B1_prog_6_TD3\obj\Debug\net6.0-windows\B1_prog_6_TD3.Form1.resources
+C:\Users\3asba\source\repos\B1_prog_6_TD3\B1_prog_6_TD3\obj\Debug\net6.0-windows\B1_prog_6_TD3.csproj.GenerateResource.cache
+C:\Users\3asba\source\repos\B1_prog_6_TD3\B1_prog_6_TD3\obj\Debug\net6.0-windows\B1_prog_6_TD3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3asba\source\repos\B1_prog_6_TD3\B1_prog_6_TD3\obj\Debug\net6.0-windows\B1_prog_6_TD3.AssemblyInfoInputs.cache
+C:\Users\3asba\source\repos\B1_prog_6_TD3\B1_prog_6_TD3\obj\Debug\net6.0-windows\B1_prog_6_TD3.AssemblyInfo.cs
+C:\Users\3asba\source\repos\B1_prog_6_TD3\B1_prog_6_TD3\obj\Debug\net6.0-windows\B1_prog_6_TD3.csproj.CoreCompileInputs.cache
+C:\Users\3asba\source\repos\B1_prog_6_TD3\B1_prog_6_TD3\obj\Debug\net6.0-windows\B1_prog_6_TD3.dll
+C:\Users\3asba\source\repos\B1_prog_6_TD3\B1_prog_6_TD3\obj\Debug\net6.0-windows\refint\B1_prog_6_TD3.dll
+C:\Users\3asba\source\repos\B1_prog_6_TD3\B1_prog_6_TD3\obj\Debug\net6.0-windows\B1_prog_6_TD3.pdb
+C:\Users\3asba\source\repos\B1_prog_6_TD3\B1_prog_6_TD3\obj\Debug\net6.0-windows\B1_prog_6_TD3.genruntimeconfig.cache
+C:\Users\3asba\source\repos\B1_prog_6_TD3\B1_prog_6_TD3\obj\Debug\net6.0-windows\ref\B1_prog_6_TD3.dll
